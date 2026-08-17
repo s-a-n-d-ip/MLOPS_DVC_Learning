@@ -8,7 +8,7 @@ import pandas as pd
 data = {
     "name": ["Sandip", "Rahul", "Amit"],
     "age": [25, 28, 30],
-    "city": ["Kolkata", "Delhi", "Mumbai"]
+    "city": ["Burdwan", "Delhi", "Mumbai"]
 }
 
 
