@@ -6,8 +6,8 @@ import pandas as pd
 # 1. Dummy dictionary
 # -----------------------------
 data = {
-    "name": ["Sandip", "Rahul", "Amit"],
-    "age": [25, 28, 30],
+    "name": ["Sandeep", "Rahul", "Amit"],
+    "age": [35, 28, 30],
     "city": ["Burdwan", "Delhi", "Mumbai"]
 }
 
